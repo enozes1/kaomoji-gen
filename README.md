@@ -1,1 +1,1 @@
-# kaomoji-gen
+# Just Kaomoji Generator in ruby
